@@ -1,0 +1,5 @@
+# ninja log v5
+0	50	7579727142120138	CMakeFiles/my_native.dir/D_/Flutter_Projects/techmaster/ptbac2/my_native/ios/Classes/native_add.c.o	f3ebef1be1a249f7
+51	173	7579727143325697	D:/Flutter Projects/techmaster/ptbac2/build/app/intermediates/cxx/Debug/3u1uq3c3/obj/x86/libmy_native.so	7651e0e80871dd87
+0	128	7579747762327799	CMakeFiles/my_native.dir/D_/Flutter_Projects/techmaster/ptbac2/my_native/ios/Classes/ptbac2.c.o	2a6413f6ac5d6a38
+129	224	7579747763336128	D:/Flutter Projects/techmaster/ptbac2/build/app/intermediates/cxx/Debug/3u1uq3c3/obj/x86/libmy_native.so	ac326e345182bc23
