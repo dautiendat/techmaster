@@ -85,6 +85,6 @@ A Audio Book project.
 - Màn hình khi thời điểm phát nhỏ hơn 5337 (mili-second)
 <img src="images/man-hinh-event-50.jpg" width="50%" height="50%">
 - Màn hình khi thời điểm phát lớn hơn 5337 (mili-second)
-<img src="images/man-hinh-event-5337.jpg.jpg" width="50%" height="50%">
+<img src="images/man-hinh-event-5337.jpg" width="50%" height="50%">
 
 
