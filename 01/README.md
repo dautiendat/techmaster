@@ -16,4 +16,4 @@ A Pendulum project.
     - AnimationController sẽ cập nhật góc dao động theo thời gian cho con lắc
     - KẾT QUẢ: Mô phỏng được chuyển động con lắc đơn theo thời gian (có tốc độ giảm dần)
 ### Kết quả bài toán
-<img src="images/ket-qua-bai-01.jpg" width="300" height="150">
+<img src="images/ket-qua-bai-01.jpg">
